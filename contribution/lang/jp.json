@@ -1,48 +1,48 @@
 {
  	"tabs": {
  	 	"map": {
- 	 	 	"trans": "Map",
+ 	 	 	"trans": "マップ",
  	 	 	"eng": "Map"
  	 	},
  	 	"inventory": {
- 	 	 	"trans": "Inventory",
+ 	 	 	"trans": "インベントリ",
  	 	 	"eng": "Inventory"
  	 	},
  	 	"quest": {
- 	 	 	"trans": "Quest",
+ 	 	 	"trans": "クエスト",
  	 	 	"eng": "Quest"
  	 	},
  	 	"chat": {
- 	 	 	"trans": "Chat",
+ 	 	 	"trans": "チャット",
  	 	 	"eng": "Chat"
  	 	},
  	 	"profile": {
- 	 	 	"trans": "Profile",
+ 	 	 	"trans": "プロフィール",
  	 	 	"eng": "Profile"
  	 	}
  	},
  	"levelType": {
  	 	"normal": {
  	 	 	"name": {
- 	 	 	 	"trans": "level",
+ 	 	 	 	"trans": "レベル",
  	 	 	 	"eng": "level"
  	 	 	}
  	 	},
  	 	"print": {
  	 	 	"name": {
- 	 	 	 	"trans": "printing rank",
+ 	 	 	 	"trans": "印刷ランク",
  	 	 	 	"eng": "printing rank"
  	 	 	}
  	 	},
  	 	"medical": {
  	 	 	"name": {
- 	 	 	 	"trans": "medical science",
+ 	 	 	 	"trans": "医学",
  	 	 	 	"eng": "medical science"
  	 	 	}
  	 	},
  	 	"ammo": {
  	 	 	"name": {
- 	 	 	 	"trans": "ammo crafting",
+ 	 	 	 	"trans": "弾薬製造",
  	 	 	 	"eng": "ammo crafting"
  	 	 	}
  	 	},
@@ -54,7 +54,7 @@
  	 	},
  	 	"mining": {
  	 	 	"name": {
- 	 	 	 	"trans": "mining skill",
+ 	 	 	 	"trans": "鉱業スキル",
  	 	 	 	"eng": "mining skill"
  	 	 	}
  	 	}
@@ -62,100 +62,100 @@
  	"location": {
  	 	"mainHub": {
  	 	 	"name": {
- 	 	 	 	"trans": "Shangri-La City center",
+ 	 	 	 	"trans": "シャングリラ市中心部",
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Central Hub]\r\n        One of the busiest cities in the continent, here you can find all sorts of people from around the globe.",
+ 	 	 	 	"trans": "[中心部]\r\n        最もにぎやかな都市であり、あらゆる人々と出会うことが出来ます。",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent, here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Go to Hyper Train Central Station",
+ 	 	 	 	 	"trans": "ハイパートレイン中央駅に移動",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Start your adventure to epic loots here",
+ 	 	 	 	 	"trans": "強いアイテムを求め冒険に出かけましょう",
  	 	 	 	 	"eng": "Start your adventure to epic loots here"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Go to Hyper Train Central Station",
+ 	 	 	 	 	"trans": "ハイパートレイン中央駅に移動",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	}
  	 	 	},
  	 	 	"toJob": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Go to Shangri-La Commercial Area",
+ 	 	 	 	 	"trans": "シャングリラ商店街に移動",
  	 	 	 	 	"eng": "Go to Shangri-La Commercial Area"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "You can complete AFK jobs to increase your skills here",
+ 	 	 	 	 	"trans": "放置してスキルレベルを上げることが出来ます",
  	 	 	 	 	"eng": "You can complete AFK jobs to increase your skills here"
  	 	 	 	}
  	 	 	},
  	 	 	"toMarket": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Go to Shangri-La Market Street",
+ 	 	 	 	 	"trans": "シャングリラ市場の通りに移動",
  	 	 	 	 	"eng": "Go to Shangri-La Market Street"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "You can sell or buy items from other players here",
+ 	 	 	 	 	"trans": "ここで他のプレイヤーからアイテムを販売または購入できます",
  	 	 	 	 	"eng": "You can sell or buy items from other players here"
  	 	 	 	}
  	 	 	},
  	 	 	"toGang": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Go to gang headquarter",
+ 	 	 	 	 	"trans": "ギャング本部に移動",
  	 	 	 	 	"eng": "Go to gang headquarter"
  	 	 	 	}
  	 	 	}
  	 	},
  	 	"job": {
  	 	 	"name": {
- 	 	 	 	"trans": "Shangri-La Commercial Area",
+ 	 	 	 	"trans": "シャングリラ商店街",
  	 	 	 	"eng": "Shangri-La Commercial Area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Job Hub]\r\n        Many shops and Businesses, a perfect location to try out your skills.",
+ 	 	 	 	"trans": "[訓練場]\r\n        スキルのレベルを上げることが出来ます.",
  	 	 	 	"eng": "[Job Hub]\r\n        Many shops and Businesses, a perfect location to try out your skills."
  	 	 	},
  	 	 	"toMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Return to Shangri-La City Center",
+ 	 	 	 	 	"trans": "シャングリラ市中心部に戻る",
  	 	 	 	 	"eng": "Return to Shangri-La City Center"
  	 	 	 	}
  	 	 	}
  	 	},
  	 	"market": {
  	 	 	"name": {
- 	 	 	 	"trans": "Shangri-La Market Street",
+ 	 	 	 	"trans": "シャングリラ市場の通り",
  	 	 	 	"eng": "Shangri-La Market Street"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Player Market]\r\n        The famous market street in Shangri-La. Loads of market stalls fill the street.\r\n        Maybe you can find something you need or set up shop yourself.",
+ 	 	 	 	"trans": "[プレイヤーの市場]\r\n        シャングリラの有名な市場の通り。沢山の露天が通りを埋め尽くしています\r\n        必要なものを見つけたり、自分の店を開くことが出来ます.",
  	 	 	 	"eng": "[Player Market]\r\n        The famous market street in Shangri-La. Loads of market stalls fill the street.\r\n        Maybe you can find something you need or set up shop yourself."
  	 	 	},
  	 	 	"toMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Return to Shangri-La City Center",
+ 	 	 	 	 	"trans": "シャングリラ市中心部に戻る",
  	 	 	 	 	"eng": "Return to Shangri-La City Center"
  	 	 	 	}
  	 	 	}
  	 	},
  	 	"station": {
  	 	 	"name": {
- 	 	 	 	"trans": "Hyper Train Central Station",
+ 	 	 	 	"trans": "ハイパートレイン中央駅",
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Adventure]\r\n        Using the hyperloop you can travel at super speed across the continent with ease.",
+ 	 	 	 	"trans": "[冒険]\r\n        ハイパーループを使用すると、大陸を超高速で移動することが出来ます。",
  	 	 	 	"eng": "[Adventure]\r\n        Using the hyperloop you can travel at super speed across the continent with ease."
  	 	 	}
  	 	},
  	 	"zone": {
  	 	 	"backToMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Back to city center",
+ 	 	 	 	 	"trans": "市内中心部に戻る",
  	 	 	 	 	"eng": "Back to city center",
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"mainHubName"
